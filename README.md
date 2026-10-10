@@ -1,4 +1,4 @@
-# Google Play Store Data Analysis Dashboard
+# Google Play Store Data Analysis Excel Dashboard
 
 ## 📊 Project Overview
 
